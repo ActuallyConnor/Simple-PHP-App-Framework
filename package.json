@@ -1,0 +1,19 @@
+{
+  "name": "as-seo-plugin",
+  "version": "0.1.0",
+  "description": "Art & Science SEO plugin for SEO related tasks",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/artscience/as-seo-plugin.git"
+  },
+  "author": "Art & Science",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/artscience/as-seo-plugin#readme"
+}

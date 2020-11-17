@@ -1,0 +1,19 @@
+{
+    "name": "artscience/as-seo-plugin",
+    "description": "Art & Science SEO plugin for SEO related tasks",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Art & Science",
+            "email": "info@artscience.ca",
+            "homepage": "https://artscience.ca",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    }
+}
