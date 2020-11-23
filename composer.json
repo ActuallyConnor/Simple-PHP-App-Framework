@@ -1,12 +1,13 @@
 {
-    "name": "artscience/as-seo-plugin",
-    "description": "Art & Science SEO plugin for SEO related tasks",
-    "type": "wordpress-plugin",
+    "name": "actuallyconnor/simple-php-app-framework",
+    "description": "A simple PHP app framework",
+    "type": "project",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Art & Science",
-            "email": "info@artscience.ca",
-            "homepage": "https://artscience.ca",
+            "name": "Connor Smyth",
+            "email": "connorsmyth@rogers.com",
+            "homepage": "https://connorsmyth.com",
             "role": "Developer"
         }
     ],

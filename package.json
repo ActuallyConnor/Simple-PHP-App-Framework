@@ -1,7 +1,7 @@
 {
-  "name": "as-seo-plugin",
-  "version": "0.1.0",
-  "description": "Art & Science SEO plugin for SEO related tasks",
+  "name": "simple-php-app-framework",
+  "version": "1.0",
+  "description": "A simple PHP app framework",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -32,7 +32,7 @@
     "type": "git",
     "url": "git+ssh://git@bitbucket.org/artscience/as-seo-plugin.git"
   },
-  "author": "Art & Science",
-  "license": "ISC",
-  "homepage": "https://bitbucket.org/artscience/as-seo-plugin#readme"
+  "author": "Connor Smyth",
+  "license": "MIT",
+  "homepage": "https://github.com/ActuallyConnor/Simple-PHP-App-Framework"
 }
